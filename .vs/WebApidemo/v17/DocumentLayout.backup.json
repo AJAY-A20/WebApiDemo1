@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\10-10-2024\\WebApidemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11C22CC6-CDE8-433C-9D2C-5A19367C07EF}|WebApidemo\\WebApidemo.csproj|d:\\10-10-2024\\webapidemo\\webapidemo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C22CC6-CDE8-433C-9D2C-5A19367C07EF}|WebApidemo\\WebApidemo.csproj|solutionrelative:webapidemo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C22CC6-CDE8-433C-9D2C-5A19367C07EF}|WebApidemo\\WebApidemo.csproj|d:\\10-10-2024\\webapidemo\\webapidemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C22CC6-CDE8-433C-9D2C-5A19367C07EF}|WebApidemo\\WebApidemo.csproj|solutionrelative:webapidemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C22CC6-CDE8-433C-9D2C-5A19367C07EF}|WebApidemo\\WebApidemo.csproj|d:\\10-10-2024\\webapidemo\\webapidemo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C22CC6-CDE8-433C-9D2C-5A19367C07EF}|WebApidemo\\WebApidemo.csproj|solutionrelative:webapidemo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\10-10-2024\\WebApidemo\\WebApidemo\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebApidemo\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\10-10-2024\\WebApidemo\\WebApidemo\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebApidemo\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:29:39.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\10-10-2024\\WebApidemo\\WebApidemo\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "WebApidemo\\Models\\Student.cs",
+              "ToolTip": "D:\\10-10-2024\\WebApidemo\\WebApidemo\\Models\\Student.cs",
+              "RelativeToolTip": "WebApidemo\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:27:10.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employeecontroller.cs",
+              "DocumentMoniker": "D:\\10-10-2024\\WebApidemo\\WebApidemo\\Controllers\\Employeecontroller.cs",
+              "RelativeDocumentMoniker": "WebApidemo\\Controllers\\Employeecontroller.cs",
+              "ToolTip": "D:\\10-10-2024\\WebApidemo\\WebApidemo\\Controllers\\Employeecontroller.cs",
+              "RelativeToolTip": "WebApidemo\\Controllers\\Employeecontroller.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:00:13.791Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
